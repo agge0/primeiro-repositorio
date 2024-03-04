@@ -13,7 +13,7 @@ Gerador de Codigo QR
 ## Run
 
 ```
-python 
+\> python main.py text.com
     
-python3 main.py
+$ python3 main.py text
 ```
